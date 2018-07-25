@@ -1,0 +1,17 @@
+Configuation:-
+....................................................
+
+Frontend:- AngularJS
+
+--------------------------------------------------------------------------------------------------------------
+Backend:- NodeJS, Express
+Database:- MongoDB
+
+....................................................
+How to start:-
+1) start MongoDB 
+2) run npm install and then type npm start(inside the folder)
+3)check with the following address in the browser
+    http://localhost:9090
+
+

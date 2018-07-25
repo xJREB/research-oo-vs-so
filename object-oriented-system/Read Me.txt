@@ -1,0 +1,20 @@
+Configuation:
+
+....................................................
+Ide : Netbeans
+
+Database :MySQl workbench
+
+Languages : html,jsp,servlet
+
+Server: Glassfish 4.1.1
+
+....................................................
+
+How to start:-
+1)Import the project in Netbeans & configure Glassfish server for it.
+2)Simple Deploy it & check with the following address in the browser
+http://localhost:8080/Bhupendras_Shop/
+
+
+
